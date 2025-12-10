@@ -16,10 +16,15 @@ This project explores a historical movie dataset (1900–2019) obtained from Wik
 ## Project Structure
 movie-analysis/
 ├── data/        # raw JSON files
+
 ├── output/      # results and plots
+
 ├── notebooks/   # analysis notebooks
+
 ├── src/         # Python scripts
+
 ├── requirements.txt
+
 └── README.md
 
 
