@@ -1,11 +1,11 @@
 actor,number in top3,number in other,total_movies,% of top3
-Bebe Daniels,112,1,565,19.82
-Buck Jones,50,71,615,8.13
-Charles Starrett,7,129,685,1.02
-Harold Lloyd,189,0,950,19.89
-Hoot Gibson,114,43,785,14.52
-Jack Holt,97,30,640,15.16
-John Wayne,44,91,675,6.52
-Johnny Mack Brown,15,108,615,2.44
-Raymond Hatton,44,61,525,8.38
-William Boyd,31,74,525,5.9
+Bebe Daniels,112,1,113,99.12
+Buck Jones,50,71,121,41.32
+Charles Starrett,7,129,136,5.15
+Harold Lloyd,189,0,189,100.0
+Hoot Gibson,114,43,157,72.61
+Jack Holt,97,30,127,76.38
+John Wayne,44,91,135,32.59
+Johnny Mack Brown,15,108,123,12.2
+Raymond Hatton,44,61,105,41.9
+William Boyd,31,74,105,29.52
