@@ -134,19 +134,13 @@ Explore interactive visualizations on Looker Studio:
 - top10_actors_top3_vs_other.csv
 
 ### Visualizations (PNG):
-- Top-10 genres (bar + pie)
-[Bar chart](https://github.com/nvoitsitska-creator/MovieDatasetAnalysis/blob/master/output/top10_genres_bar.png)
-[Pie chart](https://github.com/nvoitsitska-creator/MovieDatasetAnalysis/blob/master/output/top10_genres_pie.png)
-- Top-10 actors (bar)
-[Bar chart](https://github.com/nvoitsitska-creator/MovieDatasetAnalysis/blob/master/output/top10_actors_bar.png)
-- Actors trends by year (linechart)
-[Line chart](https://github.com/nvoitsitska-creator/MovieDatasetAnalysis/blob/master/output/actors_trends_top3.png)
-- Genre trends by year (linechart)
-[Line chart](https://github.com/nvoitsitska-creator/MovieDatasetAnalysis/blob/master/output/genre_trends_selected.png)
-- Actor genre comparison (stacked bar)
-[Stacked bar](https://github.com/nvoitsitska-creator/MovieDatasetAnalysis/blob/master/output/actors_top3_vs_other_stacked.png)
-- Actor vs genre pivot table (heatmap)
-[Heatmap](https://github.com/nvoitsitska-creator/MovieDatasetAnalysis/blob/master/output/pivottable_actors_vs_genres.png)
+![Top 10 Genres Bar Chart](https://github.com/nvoitsitska-creator/Movie-Dataset-Analysis/raw/master/output/top10_genres_bar.png)
+![Top 10 Genres Pie Chart](https://github.com/nvoitsitska-creator/Movie-Dataset-Analysis/raw/master/output/top10_genres_pie.png)
+![Top 10 Actors Bar Chart](https://github.com/nvoitsitska-creator/Movie-Dataset-Analysis/raw/master/output/top10_actors_bar.png)
+![Top 3 Actors Trends Line Plot](https://github.com/nvoitsitska-creator/Movie-Dataset-Analysis/raw/master/output/actors_trends_top3.png)
+![Genre Trends Line Plot](https://github.com/nvoitsitska-creator/Movie-Dataset-Analysis/raw/master/output/genre_trends_selected.png)
+![Top-3 vs Other Stacked Bar](https://github.com/nvoitsitska-creator/Movie-Dataset-Analysis/raw/master/output/actors_top3_vs_other_stacked.png)
+![Actor vs Genre Heatmap](https://github.com/nvoitsitska-creator/Movie-Dataset-Analysis/raw/master/output/pivottable_actors_vs_genres.png)
 
 ## Key Insights
 - Drama, Comedy, and Silent films dominate historical production
