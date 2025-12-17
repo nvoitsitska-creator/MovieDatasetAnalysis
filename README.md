@@ -22,35 +22,23 @@ The project demonstrates practical skills in data cleaning, exploratory data ana
 - Which genres dominate the careers of the top-10 actors?
 
 ## Project Structure
+```
 movie-analysis/
 │
-
 ├── data/             # Raw JSON files downloaded from Wikipedia
-
 │
-
 ├── output/           # Generated CSV tables and plots
-
 │
-
 ├── notebooks/        # Jupyter notebooks for analysis
-
 │
-
 ├── src/              # Python scripts
-
 │   ├── data_loading.py     # Downloading and cleaning JSON datasets
-
 │   ├── data_analysis.py    # Aggregation and analytical functions
-
 │   └── data_visualization.py # Plots and charts
-
 │
-
 ├── requirements.txt
-
 └── README.md
-
+```
 
 ## Tools & Technologies
 
